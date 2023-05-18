@@ -48,4 +48,4 @@ Then click "Ok"
 ```
 Now analysis results appears
 According to given data in file p-value is greater than alpha.
-So, we it effected insignificantly and have homocedasticity at 5% level of significance.
+So, it effected insignificantly and have homocedasticity at 5% level of significance.
