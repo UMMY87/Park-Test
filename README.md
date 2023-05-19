@@ -49,3 +49,4 @@ Then click "Ok"
 Now analysis results appears
 According to given data in file p-value is greater than alpha.
 So, it effected insignificantly and have homocedasticity at 5% level of significance.
+If p-value is less then alpha. Then it effected significantly and have heteroscedasticity at 5% level of significance.
